@@ -10,9 +10,9 @@ import hamburguer8 from "../assets/hamb-8.png"
 
 function TabelaHamburguers() {
     return (
-        <div className="md:max-w-300 md:m-auto md:mt-6">
+        <div className="md:max-w-250 md:m-auto md:mt-6">
 
-            <h2 className="text-2xl font-bold  mb-4 md:text-4xl">Conheça nosso menu</h2>
+            <h2 className="text-2xl font-bold  mb-4">Conheça nosso menu</h2>
 
             <section className="md:grid grid-cols-2 md:gap-6">
                 <CardHamburguer img={hamburguer1} nome="Cheese Burger Duplo" descricao="Pão levinho de fermentação natural da Trigou, burger 160g, queijo prato e maionese da casa" preco="2 000" />
