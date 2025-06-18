@@ -12,7 +12,7 @@ function Header() {
                 backgroundRepeat: "no-repeat"
             }}>
 
-            <img className="w-50 rounded-full m-auto" src={imgHeader} alt="Hamburguer delicioso" />
+            <img className="w-40 rounded-full m-auto" src={imgHeader} alt="Hamburguer delicioso" />
 
             <h1 className="text-3xl font-bold">Morde & Chora</h1>
 
